@@ -27,6 +27,7 @@ Working with Front-end:
 
 > [React Redux JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
 
+<<<<<<< HEAD
 ## More Practice:
 > [Build Node.js Rest APIs with Express, Sequelize & MySQL](https://bezkoder.com/node-js-express-sequelize-mysql/)
 
@@ -44,6 +45,8 @@ Associations:
 Deployment:
 > [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
 
+=======
+>>>>>>> 74e443b1fef525ca40b4703aba37a20cd6d2a32f
 Integration on same Server/Port:
 > [Integrate Angular 8 with Node.js Express](https://bezkoder.com/integrate-angular-8-node-js/)
 
