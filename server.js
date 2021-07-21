@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 const app = express();
-const path = __dirname + "/app/views/";
+const path = __dirname + "/app/views-ng/";
 app.use(express.static(path));
 
 var corsOptions = {
